@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kovalliubov90@gmail.com
+	name = gh api ...
